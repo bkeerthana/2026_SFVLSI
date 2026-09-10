@@ -1,0 +1,21 @@
+Day-1: 
+Recap 
+  - Getting help commands 
+      man 
+      type
+      help 
+
+  - Filters 
+  - Grep 
+  - globbing 
+
+regex
+   - to search complex patterns
+
+notations
+   anchor or location
+   ^   - The line should start with 
+   $   - The line should end with 
+   \<  - the word should start with 
+   \>  - the word should end with 
+
