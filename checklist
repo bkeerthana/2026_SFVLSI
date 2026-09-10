@@ -1,9 +1,17 @@
+Teaching Feedback/ Doubts: 
+https://forms.cloud.microsoft/r/0VzcKYdzdX
+
+Assignment Feedback: 
+https://forms.cloud.microsoft/r/FYGmK8MGYe
+
+
 Day-1: 
 Recap 
   - Getting help commands 
+    Refer: https://bkeerthanamanipal.blogspot.com/2024/11/getting-help-in-linux.html
       man 
       type
-      help 
+      help  
 
   - Filters 
   - Grep 
@@ -18,4 +26,10 @@ notations
    $   - The line should end with 
    \<  - the word should start with 
    \>  - the word should end with 
+
+Reference: 
+
+blogs: 
+geekstuff
+tecmint
 
