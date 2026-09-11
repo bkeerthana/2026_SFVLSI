@@ -25,7 +25,15 @@ notations
    ^   - The line should start with 
    $   - The line should end with 
    \<  - the word should start with 
-   \>  - the word should end with 
+   \>  - The word should end with 
+
+
+Lab-1:
+Regex 
+   [] 
+   {}
+   . 
+
 
 Reference: 
 
