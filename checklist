@@ -80,7 +80,7 @@ sed
 Clarification: 
 
 sed -n '1~7,+4p' filename
-To print 5 lines and then skip 2 lines repeatedly, use:
+1. To print 5 lines and then skip 2 lines repeatedly, use:
 
 sed -n '1~7,+4p' filename
 
@@ -93,7 +93,9 @@ Skips lines 13–14
 Continues the same pattern
 
 
-
+2. Multiline comment in bash 
+Refer: https://ioflood.com/blog/bash-multiline-comment/
+       https://linuxize.com/post/bash-comments/
 
 sed Reference: 
 
