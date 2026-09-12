@@ -36,6 +36,59 @@ Regex
 Posted on : 11.09.2026
 Deadline  : 25.09.2026
 
+Day-2 2hours 
+grep regex 
+  [] 
+  [^]
+  ^[]
+  ^[^]
+
+   * 
+   + 
+   ? 
+ 
+  Difference between glob and Regex 
+
+
+   ^$
+
+   .* 
+
+
+sed 
+  intro to sed 
+  how sed works 
+
+  sed -options sed_command filename 
+
+  options 
+  -i ---- in file
+  -n ---- suppress default output 
+
+  sed command
+  p  -- print 
+  d  -- delete
+
+  address/pattern
+
+  sed -options address sed_command filename 
+  sed -options address,address sed_command filename 
+
+  sed -options /pattern/ filename 
+  sed -options /pattern1/,/pattern2/ filename 
+
+sed Reference: 
+
+geekstuff
+sed and awk 101 hacks -- book 
+
+gnu sed --- book 
+sed and awk o'reilly -- book 
+
+
+
+
+
 Reference: 
 
 blogs: 
