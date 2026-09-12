@@ -77,6 +77,24 @@ sed
   sed -options /pattern/ filename 
   sed -options /pattern1/,/pattern2/ filename 
 
+Clarification: 
+
+sed -n '1~7,+4p' filename
+To print 5 lines and then skip 2 lines repeatedly, use:
+
+sed -n '1~7,+4p' filename
+
+This prints:
+
+Lines 1–5
+Skips lines 6–7
+Prints lines 8–12
+Skips lines 13–14
+Continues the same pattern
+
+
+
+
 sed Reference: 
 
 geekstuff
