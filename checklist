@@ -106,8 +106,20 @@ gnu sed --- book
 sed and awk o'reilly -- book 
 
 
-
-
+Day-3: 
+Recap 
+commands 
+    y --- translate 
+    w --- write into the file 
+    s --- replace 
+          flags 
+          i -- ignore 
+          n 
+          g 
+          ng 
+          e -- execute as a command
+          w -- write into file 
+     & -- copy the pattern
 
 Reference: 
 
