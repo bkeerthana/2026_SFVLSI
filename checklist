@@ -120,6 +120,26 @@ commands
           e -- execute as a command
           w -- write into file 
      & -- copy the pattern
+    w 
+    a 
+    i 
+
+Day-4: 
+    w command 
+    r command 
+    G
+    g 
+
+    option 
+    -f 
+    -r 
+    -E 
+
+    add, +n 
+
+    grouping { } 
+
+    Regex notations 
 
 Reference: 
 
