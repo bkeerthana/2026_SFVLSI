@@ -198,10 +198,44 @@ info awk
 gnu awk
 
 Day-6 (1.5 hrs) 
-Awk - Reviist Pattern block
+Awk - Revisit pattern block
 practice exercise
 
 Reference: 
+
+Day-7 
+Perl
+man perl
+perldoc
+
+perl -h 
+
+command line 
+  -e 
+
+script 
+  - hello world 
+
+  - passing values 
+           - hard code 
+           - get the values from the user  <> 
+  - Constructs 
+           - sequenital 
+           - conditional 
+  - scalar variables
+  - string operations 
+         - chop 
+         - chomp
+         - repetition
+         - concat 
+         - binding operator 
+              
+Reference: 
+ man perl
+ info perl 
+ perldoc
+ learning perl - book 
+ perl one-liners 
 
 blogs: 
 geekstuff
