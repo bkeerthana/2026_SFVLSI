@@ -1,0 +1,8 @@
+VLSI Summary Report
+-------------------
+Total signals: 14
+Clock signals: 3
+Reset signals: 3
+Warnings: 3
+Errors: 2
+Timing violations: 3

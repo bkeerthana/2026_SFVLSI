@@ -1,0 +1,5 @@
+Warning: Unconnected port found
+Warning: Timing constraint missing
+Error: Compilation failed
+Warning: Unused signal detected
+Error: Missing module definition

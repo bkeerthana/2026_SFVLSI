@@ -1,0 +1,3 @@
+clk
+core_clk
+test_clk

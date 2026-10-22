@@ -1,0 +1,11 @@
+Info: Synthesis started
+Warning: Unconnected port found
+Info: Optimization completed
+Warning: Timing constraint missing
+Error: Compilation failed
+Info: Reading Verilog files
+Warning: Unused signal detected
+Info: Mapping standard cells
+Error: Missing module definition
+Info: Synthesis completed with messages
+

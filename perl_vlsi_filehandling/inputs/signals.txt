@@ -1,0 +1,15 @@
+clk
+reset
+data_in
+data_out
+core_clk
+test_clk
+reset_n
+async_reset
+enable
+addr
+write_en
+read_en
+valid
+ready
+

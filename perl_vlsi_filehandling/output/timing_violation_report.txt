@@ -1,0 +1,7 @@
+Timing Violation Report
+-----------------------
+Path 2 has negative slack: -0.10
+Path 4 has negative slack: -0.30
+Path 6 has negative slack: -0.45
+
+Total violations: 3
